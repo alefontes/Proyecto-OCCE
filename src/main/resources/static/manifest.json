@@ -1,0 +1,84 @@
+{
+  "../../public/buhito.ico": {
+    "file": "assets/buhito-d9133cfd.ico",
+    "src": "../../public/buhito.ico"
+  },
+  "../assets/unison_logo.png": {
+    "file": "assets/unison_logo-a8797933.png",
+    "src": "../assets/unison_logo.png"
+  },
+  "SolicitudModal.css": {
+    "file": "assets/SolicitudModal-b330ec9f.css",
+    "src": "SolicitudModal.css"
+  },
+  "_SolicitudModal-3ea29391.js": {
+    "assets": [
+      "assets/unison_logo-a8797933.png"
+    ],
+    "css": [
+      "assets/SolicitudModal-b330ec9f.css"
+    ],
+    "file": "assets/SolicitudModal-3ea29391.js",
+    "imports": [
+      "__plugin-vue_export-helper-bd14bd3e.js"
+    ]
+  },
+  "__plugin-vue_export-helper-bd14bd3e.js": {
+    "file": "assets/_plugin-vue_export-helper-bd14bd3e.js"
+  },
+  "index.css": {
+    "file": "assets/index-78058d01.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-78058d01.css"
+    ],
+    "file": "assets/main-948b4c15.js",
+    "imports": [
+      "__plugin-vue_export-helper-bd14bd3e.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "login/index.css": {
+    "file": "assets/index-9fb83486.css",
+    "src": "login/index.css"
+  },
+  "login/index.html": {
+    "css": [
+      "assets/index-9fb83486.css"
+    ],
+    "file": "assets/login-e12578be.js",
+    "imports": [
+      "__plugin-vue_export-helper-bd14bd3e.js",
+      "_SolicitudModal-3ea29391.js"
+    ],
+    "isEntry": true,
+    "src": "login/index.html"
+  },
+  "panel_coordinador/index.html": {
+    "file": "assets/panel_coordinador-c5a53350.js",
+    "imports": [
+      "__plugin-vue_export-helper-bd14bd3e.js"
+    ],
+    "isEntry": true,
+    "src": "panel_coordinador/index.html"
+  },
+  "panel_estudiante/index.css": {
+    "file": "assets/index-47fe4887.css",
+    "src": "panel_estudiante/index.css"
+  },
+  "panel_estudiante/index.html": {
+    "css": [
+      "assets/index-47fe4887.css"
+    ],
+    "file": "assets/panel_estudiante-99e342d9.js",
+    "imports": [
+      "__plugin-vue_export-helper-bd14bd3e.js",
+      "_SolicitudModal-3ea29391.js"
+    ],
+    "isEntry": true,
+    "src": "panel_estudiante/index.html"
+  }
+}
